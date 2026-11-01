@@ -29,8 +29,8 @@
 ||
 */
 
-#ifndef KEY_H
-#define KEY_H
+#ifndef KEYPAD_KEY_H
+#define KEYPAD_KEY_H
 
 // Arduino versioning.
 #if defined(ARDUINO) && ARDUINO >= 100
